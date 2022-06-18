@@ -1,0 +1,44 @@
+.carousel-item img {
+    height:  85vh;
+    object-fit: cover;
+    object-position: bottom;
+
+}
+.carousel-control-prev {
+    left: 10%;
+
+}  
+
+.carousel-control-next {
+right: 10%;
+
+} 
+
+.rounded-circle {
+object-fit: cover;
+
+}
+.row {
+margin: 0;
+
+}
+
+.martketing {
+    text-align: center;
+    
+    }
+    .features {
+       margin-bottom: 5rem;
+        
+        }
+
+        .features img {
+            width: 350px;
+             
+             }
+
+             .float-right {
+                float: right;
+                 
+                 }
+
